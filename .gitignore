@@ -1,0 +1,32 @@
+bin/
+obj/
+
+# SQLite database 
+*.db
+*.db-shm
+*.db-wal
+
+# Google OAuth
+credentials.json
+token.json
+
+# Annotated camera snapshots
+Snapshots/
+AuditImages/
+
+# ONNX model 
+Models/*.onnx
+
+# ASP.NET user secrets
+*.pfx
+
+# Frontend build output
+webapp/node_modules/
+webapp/dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.user
+.vscode/
+.idea/

@@ -1,0 +1,51 @@
+.topbar {
+  background: #E5E5E5;
+  padding: 16px 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.topbar__left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.topbar__title {
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.topbar__live {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.topbar__live-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #5D8623;
+  flex-shrink: 0;
+  animation: live-pulse 1.6s ease-in-out infinite;
+}
+
+@keyframes live-pulse {
+  0%, 100% { background: #5D8623; box-shadow: 0 0 0 0 rgba(93, 134, 35, 0.5); }
+  50%       { background: #C0DD97; box-shadow: 0 0 0 4px rgba(93, 134, 35, 0); }
+}
+
+.topbar__pills {
+  display: flex;
+  gap: 16px;
+}

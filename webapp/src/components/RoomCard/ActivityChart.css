@@ -1,0 +1,41 @@
+.activity-chart {
+  margin-top: 12px;
+}
+
+.activity-chart__label {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.activity-chart__area {
+  width: 100%;
+}
+
+.activity-chart__times {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0;
+}
+
+.activity-chart__times span {
+  font-family: 'Inter', sans-serif;
+  font-size: 8px;
+  font-weight: 300;
+}
+
+.activity-chart__no-camera {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  font-weight: 300;
+  color: #aaa;
+  font-style: italic;
+  white-space: nowrap;
+  pointer-events: none;
+}

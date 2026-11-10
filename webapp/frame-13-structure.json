@@ -1,0 +1,4585 @@
+{
+  "metadata": {
+    "exportedAt": "2026-05-18T08:13:49.204Z",
+    "componentName": "Frame 13",
+    "totalElements": 324,
+    "nestingDepth": 2,
+    "plugin": "Figma to JSON Exporter"
+  },
+  "designTokens": {
+    "colors": {
+      "color-rgb(255, 255, 255)": "rgb(255, 255, 255)",
+      "color-rgb(229, 229, 229)": "rgb(229, 229, 229)",
+      "color-rgb(217, 217, 217)": "rgb(217, 217, 217)",
+      "color-rgb(0, 0, 0)": "rgb(0, 0, 0)",
+      "color-rgb(234, 243, 222)": "rgb(234, 243, 222)",
+      "color-rgb(192, 221, 151)": "rgb(192, 221, 151)",
+      "color-rgb(93, 134, 35)": "rgb(93, 134, 35)",
+      "color-rgb(250, 238, 218)": "rgb(250, 238, 218)",
+      "color-rgb(240, 149, 149)": "rgb(240, 149, 149)",
+      "color-rgb(250, 199, 117)": "rgb(250, 199, 117)",
+      "color-rgb(223, 142, 11)": "rgb(223, 142, 11)",
+      "color-rgb(252, 235, 235)": "rgb(252, 235, 235)",
+      "color-rgb(176, 38, 38)": "rgb(176, 38, 38)",
+      "color-rgb(241, 240, 239)": "rgb(241, 240, 239)",
+      "color-rgb(190, 190, 190)": "rgb(190, 190, 190)",
+      "color-rgb(107, 103, 97)": "rgb(107, 103, 97)"
+    },
+    "fonts": {
+      "jetbrains-mono": {
+        "family": "JetBrains Mono",
+        "sizes": {
+          "size-30": "30px",
+          "size-15": "15px",
+          "size-12": "12px",
+          "size-16": "16px"
+        },
+        "weights": {
+          "weight-400": "400"
+        }
+      },
+      "inter": {
+        "family": "Inter",
+        "sizes": {
+          "size-15": "15px",
+          "size-13": "13px",
+          "size-20": "20px",
+          "size-8": "8px",
+          "size-40": "40px",
+          "size-9": "9px"
+        },
+        "weights": {
+          "weight-300": "300",
+          "weight-500": "500",
+          "weight-400": "400"
+        }
+      }
+    },
+    "spacing": {},
+    "effects": {
+      "shadow-4-4": {
+        "x": 0,
+        "y": 4,
+        "blur": 4,
+        "color": "rgba(0, 0, 0, 0.25)"
+      }
+    }
+  },
+  "structure": {
+    "name": "frame-13",
+    "type": "FRAME",
+    "size": {
+      "w": 1440,
+      "h": 1024
+    },
+    "styles": {
+      "bg": "rgb(255, 255, 255)",
+      "layout": {
+        "direction": "row",
+        "gap": 0,
+        "align": {
+          "main": "start",
+          "cross": "start"
+        }
+      }
+    },
+    "children": [
+      {
+        "name": "rectangle-1",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 1440,
+          "h": 100
+        },
+        "styles": {
+          "bg": "rgb(229, 229, 229)"
+        }
+      },
+      {
+        "name": "rectangle-2",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 254,
+          "h": 68
+        },
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "radius": 15
+        }
+      },
+      {
+        "name": "25",
+        "type": "TEXT",
+        "size": {
+          "w": 36,
+          "h": 40
+        },
+        "content": "25",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 30,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "all-rooms",
+        "type": "TEXT",
+        "size": {
+          "w": 81,
+          "h": 20
+        },
+        "content": "All Rooms",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 15,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-14",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 237
+        },
+        "styles": {
+          "bg": "rgb(234, 243, 222)",
+          "border": {
+            "width": 1,
+            "color": "rgb(93, 134, 35)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "3f---4-seats---mryudistira-formulatrix-com-next-booking-14-00---16-00-begin-at-14-00--60-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 396,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mryudistira@formulatrix.com\n\nnext booking                                                14:00 - 16:00\nbegin at                                                  14:00 (60 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-15",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-2",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "mr--201-yudistira",
+        "type": "TEXT",
+        "size": {
+          "w": 188,
+          "h": 24
+        },
+        "content": "MR. 201 YUDISTIRA",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-18",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(234, 243, 222)",
+          "border": {
+            "width": 1,
+            "color": "rgb(93, 134, 35)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbima-formulatrix-com-next-booking-14-00---16-00-begin-at-14-00--60-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 396,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mrbima@formulatrix.com\n\nnext booking                                                  14:00 - 16:00\nbegin at                                                  14:00 (60 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-19",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-4",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "mr-202-bima",
+        "type": "TEXT",
+        "size": {
+          "w": 130,
+          "h": 48
+        },
+        "content": "MR.202 BIMA",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-32",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(250, 238, 218)",
+          "border": {
+            "width": 1,
+            "color": "rgb(223, 142, 11)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "rectangle-336",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 7
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "line-18",
+        "type": "VECTOR",
+        "size": {
+          "w": 367,
+          "h": 0
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(93, 134, 35)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "vector-5",
+        "type": "VECTOR",
+        "size": {
+          "w": 75,
+          "h": 1
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "ellipse-287",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-288",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-289",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-290",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-291",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-292",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-293",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-294",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-295",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-296",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-297",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-298",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-299",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-300",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-130",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-131",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-132",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-133",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 24,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-134",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-135",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-136",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-137",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 24,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-138",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-139",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-140",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-141",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 24,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-142",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-143",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "rectangle-144",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 25,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)"
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booked-by-marcell-nandana-ends-at-13-45--43-min-left--empty-for-22-minutes",
+        "type": "TEXT",
+        "size": {
+          "w": 388,
+          "h": 90
+        },
+        "content": "booked by                                              Marcell Nandana\nends at                                                 13:45 (43 min left)\nempty for                                                         22 minutes",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---3-seats---mrijen-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 294,
+          "h": 18
+        },
+        "content": "3F   ·   3 seats   ·   mrijen@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-33",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(250, 199, 117)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-11",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(223, 142, 11)"
+        }
+      },
+      {
+        "name": "mr--207-ijen",
+        "type": "TEXT",
+        "size": {
+          "w": 127,
+          "h": 48
+        },
+        "content": "MR. 207 IJEN",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "4",
+        "type": "TEXT",
+        "size": {
+          "w": 18,
+          "h": 40
+        },
+        "content": "4",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 30,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 36,
+          "h": 20
+        },
+        "content": "Free",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 15,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "rectangle-4",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 254,
+          "h": 66
+        },
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "radius": 15
+        }
+      },
+      {
+        "name": "18",
+        "type": "TEXT",
+        "size": {
+          "w": 36,
+          "h": 40
+        },
+        "content": "18",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 30,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 36,
+          "h": 20
+        },
+        "content": "Free",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 15,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "15",
+        "type": "TEXT",
+        "size": {
+          "w": 36,
+          "h": 40
+        },
+        "content": "15",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 30,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 72,
+          "h": 20
+        },
+        "content": "Occupied",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 15,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "rectangle-7",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 253,
+          "h": 66
+        },
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "radius": 15
+        }
+      },
+      {
+        "name": "4",
+        "type": "TEXT",
+        "size": {
+          "w": 18,
+          "h": 40
+        },
+        "content": "4",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 30,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 72,
+          "h": 20
+        },
+        "content": "Occupied",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 15,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "ellipse-1",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 11,
+          "h": 11
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)"
+        }
+      },
+      {
+        "name": "rectangle-9",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 100,
+          "h": 36
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "all",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 21
+        },
+        "content": "All",
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "rectangle-10",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 100,
+          "h": 36
+        },
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "border": {
+            "width": 1,
+            "color": "rgb(0, 0, 0)"
+          },
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 39,
+          "h": 21
+        },
+        "content": "Free",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "rectangle-11",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 100,
+          "h": 36
+        },
+        "styles": {
+          "bg": "rgb(217, 217, 217)",
+          "border": {
+            "width": 1,
+            "color": "rgb(0, 0, 0)"
+          },
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 77,
+          "h": 21
+        },
+        "content": "Occupied",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "2rd-floor",
+        "type": "TEXT",
+        "size": {
+          "w": 87,
+          "h": 21
+        },
+        "content": "2rd Floor",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "line-1",
+        "type": "LINE",
+        "size": {
+          "w": 1281,
+          "h": 0
+        },
+        "styles": {
+          "border": {
+            "width": 1,
+            "color": "rgb(0, 0, 0)"
+          }
+        }
+      },
+      {
+        "name": "09-07-59-wib",
+        "type": "TEXT",
+        "size": {
+          "w": 116,
+          "h": 21
+        },
+        "content": "09.07.59 WIB",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "center"
+          }
+        }
+      },
+      {
+        "name": "live---refreshes-every-60-s---jakarta-time--wib-",
+        "type": "TEXT",
+        "size": {
+          "w": 480,
+          "h": 42
+        },
+        "content": "Live · refreshes every 60 s · Jakarta time (WIB)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 16,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "meeting-room-status",
+        "type": "TEXT",
+        "size": {
+          "w": 390,
+          "h": 96
+        },
+        "content": "Meeting room status",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 40,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-61",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-25",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "m-r-bali",
+        "type": "TEXT",
+        "size": {
+          "w": 86,
+          "h": 48
+        },
+        "content": "M.R BALI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com-next-booking-14-00---16-00-last-checked-2-min-ago",
+        "type": "TEXT",
+        "size": {
+          "w": 377,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com\n\nnext booking                                              14:00 - 16:00\nlast checked                                                    2 min ago",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-75",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(234, 243, 222)",
+          "border": {
+            "width": 1,
+            "color": "rgb(93, 134, 35)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "rectangle-76",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-25",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "mr-203-bali",
+        "type": "TEXT",
+        "size": {
+          "w": 124,
+          "h": 48
+        },
+        "content": "MR.203 BALI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com-next-booking-14-00---16-00-begin-at-14-00--60-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 396,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com\n\nnext booking                                                  14:00 - 16:00\nbegin at                                                  14:00 (60 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-61",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "ellipse-25",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "m-r-bali",
+        "type": "TEXT",
+        "size": {
+          "w": 86,
+          "h": 48
+        },
+        "content": "M.R BALI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 294,
+          "h": 18
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-77",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(252, 235, 235)",
+          "border": {
+            "width": 1,
+            "color": "rgb(176, 38, 38)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "line-3",
+        "type": "VECTOR",
+        "size": {
+          "w": 364,
+          "h": 0
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(176, 38, 38)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "ellipse-47",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-48",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-49",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-50",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-51",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-52",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-53",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-55",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-56",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-57",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-58",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-59",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-60",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-61",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-62",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 122,
+          "h": 22
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-330",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)",
+          "radius": 5
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 294,
+          "h": 18
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booked-by-reyhan-ardiya-ends-at-14-30--88-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 392,
+          "h": 36
+        },
+        "content": "booked by                                             Reyhan Ardiya\nends at                                                  14:30 (88 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "mr-204-toba",
+        "type": "TEXT",
+        "size": {
+          "w": 135,
+          "h": 24
+        },
+        "content": "MR.204 TOBA",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-77",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 58,
+          "h": 16
+        },
+        "content": "OCCUPIED",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-26",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)"
+        }
+      },
+      {
+        "name": "rectangle-94",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "ellipse-27",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "m-r-bali",
+        "type": "TEXT",
+        "size": {
+          "w": 86,
+          "h": 48
+        },
+        "content": "M.R BALI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com-next-booking-14-00---16-00-last-checked-2-min-ago",
+        "type": "TEXT",
+        "size": {
+          "w": 382,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com\n\nnext booking                                               14:00 - 16:00\nlast checked                                                     2 min ago",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-95",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(252, 235, 235)",
+          "border": {
+            "width": 1,
+            "color": "rgb(176, 38, 38)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "3f---3-seats---mrnias-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 298,
+          "h": 18
+        },
+        "content": "3F   ·   3 seats   ·   mrnias@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booked-by-melianti-dwi-ends-at-14-30--88-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 392,
+          "h": 36
+        },
+        "content": "booked by                                                      Melianti Dwi\nends at                                                  14:30 (88 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "mr--205-nias",
+        "type": "TEXT",
+        "size": {
+          "w": 132,
+          "h": 48
+        },
+        "content": "MR. 205 NIAS",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-96",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 58,
+          "h": 16
+        },
+        "content": "OCCUPIED",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-28",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)"
+        }
+      },
+      {
+        "name": "rectangle-112",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 68,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(192, 221, 151)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "ellipse-29",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "m-r-bali",
+        "type": "TEXT",
+        "size": {
+          "w": 86,
+          "h": 48
+        },
+        "content": "M.R BALI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com-next-booking-14-00---16-00-last-checked-2-min-ago",
+        "type": "TEXT",
+        "size": {
+          "w": 382,
+          "h": 72
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com\n\nnext booking                                               14:00 - 16:00\nlast checked                                                     2 min ago",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "free",
+        "type": "TEXT",
+        "size": {
+          "w": 29,
+          "h": 16
+        },
+        "content": "FREE",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-113",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(252, 235, 235)",
+          "border": {
+            "width": 1,
+            "color": "rgb(176, 38, 38)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "3f---4-seats---mrbali-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 294,
+          "h": 18
+        },
+        "content": "3F   ·   4 seats   ·   mrbali@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booked-by-i-made-raya-ends-at-14-30--88-min-left-",
+        "type": "TEXT",
+        "size": {
+          "w": 392,
+          "h": 72
+        },
+        "content": "booked by                                                   I Made Raya\nends at                                                  14:30 (88 min left)",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "mr--206-bromo",
+        "type": "TEXT",
+        "size": {
+          "w": 160,
+          "h": 24
+        },
+        "content": "MR. 206 BROMO",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-114",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(240, 149, 149)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 58,
+          "h": 16
+        },
+        "content": "OCCUPIED",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-30",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)"
+        }
+      },
+      {
+        "name": "rectangle-36",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(241, 240, 239)",
+          "border": {
+            "width": 1,
+            "color": "rgb(107, 103, 97)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booking---occupied-for-11-minutes",
+        "type": "TEXT",
+        "size": {
+          "w": 393,
+          "h": 36
+        },
+        "content": "booking                                                                      —\noccupied for                                                       11 minutes",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---3-seats---mrrinjani-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 311,
+          "h": 18
+        },
+        "content": "3F   ·   3 seats   ·   mrrinjani@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-37",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(190, 190, 190)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 58,
+          "h": 16
+        },
+        "content": "OCCUPIED",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-13",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(107, 103, 97)"
+        }
+      },
+      {
+        "name": "mr--208-rinjani",
+        "type": "TEXT",
+        "size": {
+          "w": 164,
+          "h": 48
+        },
+        "content": "MR. 208 RINJANI",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-175",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 420,
+          "h": 232
+        },
+        "styles": {
+          "bg": "rgb(241, 240, 239)",
+          "border": {
+            "width": 1,
+            "color": "rgb(107, 103, 97)"
+          },
+          "radius": 15
+        }
+      },
+      {
+        "name": "rectangle-176",
+        "type": "RECTANGLE",
+        "size": {
+          "w": 91,
+          "h": 21
+        },
+        "styles": {
+          "bg": "rgb(190, 190, 190)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "occupied",
+        "type": "TEXT",
+        "size": {
+          "w": 58,
+          "h": 16
+        },
+        "content": "OCCUPIED",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "JetBrains Mono",
+            "size": 12,
+            "weight": "400",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "ellipse-31",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 8,
+          "h": 8
+        },
+        "styles": {
+          "bg": "rgb(107, 103, 97)"
+        }
+      },
+      {
+        "name": "mr--209-merbabu",
+        "type": "TEXT",
+        "size": {
+          "w": 183,
+          "h": 48
+        },
+        "content": "MR. 209 MERBABU",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 20,
+            "weight": "500",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "3f---3-seats---mrmerbabu-formulatrix-com",
+        "type": "TEXT",
+        "size": {
+          "w": 332,
+          "h": 18
+        },
+        "content": "3F   ·   3 seats   ·   mrmerbabu@formulatrix.com",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "booking---occupied-for-9-minutes",
+        "type": "TEXT",
+        "size": {
+          "w": 389,
+          "h": 36
+        },
+        "content": "booking                                                                      —\noccupied for                                                       9 minutes",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 15,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 110,
+          "h": 16
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-326",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 7
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "line-9",
+        "type": "VECTOR",
+        "size": {
+          "w": 367,
+          "h": 19
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(93, 134, 35)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "vector-1",
+        "type": "VECTOR",
+        "size": {
+          "w": 75,
+          "h": 17
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "ellipse-153",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-154",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-155",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-156",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-157",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-158",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-159",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-160",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-161",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-166",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-167",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-162",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-163",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-164",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-165",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "rectangle-328",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 7
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "line-11",
+        "type": "VECTOR",
+        "size": {
+          "w": 367,
+          "h": 0
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(93, 134, 35)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "vector-3",
+        "type": "VECTOR",
+        "size": {
+          "w": 75,
+          "h": 1
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "ellipse-183",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-184",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-185",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-186",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-187",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-188",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-189",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-190",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-191",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-192",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-194",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-195",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-196",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-197",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 24,
+          "h": 11
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 9,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "rectangle-329",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 7
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)",
+          "radius": 30
+        }
+      },
+      {
+        "name": "line-12",
+        "type": "VECTOR",
+        "size": {
+          "w": 367,
+          "h": 19
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(93, 134, 35)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "vector-4",
+        "type": "VECTOR",
+        "size": {
+          "w": 75,
+          "h": 17
+        },
+        "styles": {
+          "bg": "rgb(93, 134, 35)"
+        }
+      },
+      {
+        "name": "ellipse-198",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-199",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-200",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-201",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-202",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-203",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-204",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-205",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-206",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-207",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-208",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-209",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-210",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-211",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 122,
+          "h": 22
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "line-13",
+        "type": "VECTOR",
+        "size": {
+          "w": 363,
+          "h": 17
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(176, 38, 38)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "ellipse-213",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-214",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-215",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-216",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-217",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-218",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-219",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-220",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-221",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-222",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-223",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-224",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-225",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-226",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-212",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "rectangle-331",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)",
+          "radius": 5
+        }
+      },
+      {
+        "name": "last-15-min-activity",
+        "type": "TEXT",
+        "size": {
+          "w": 122,
+          "h": 22
+        },
+        "content": "last 15 min activity",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 13,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "line-14",
+        "type": "VECTOR",
+        "size": {
+          "w": 363,
+          "h": 17
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(176, 38, 38)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "ellipse-228",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-229",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-230",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-231",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-232",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-233",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-234",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-235",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-236",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-237",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-238",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-239",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-240",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-241",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-227",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "rectangle-332",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)",
+          "radius": 5
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "line-16",
+        "type": "VECTOR",
+        "size": {
+          "w": 363,
+          "h": 17
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(176, 38, 38)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "ellipse-257",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-258",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-259",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-260",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-261",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-262",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-263",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-264",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-265",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-266",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-267",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-268",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-269",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-270",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-271",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "rectangle-334",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)",
+          "radius": 5
+        }
+      },
+      {
+        "name": "08-52",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "08.52",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-07",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "09.07",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "09-02",
+        "type": "TEXT",
+        "size": {
+          "w": 22,
+          "h": 10
+        },
+        "content": "09.02",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "08-57",
+        "type": "TEXT",
+        "size": {
+          "w": 21,
+          "h": 10
+        },
+        "content": "08.57",
+        "styles": {
+          "bg": "rgb(0, 0, 0)",
+          "text": {
+            "family": "Inter",
+            "size": 8,
+            "weight": "300",
+            "align": "left"
+          }
+        }
+      },
+      {
+        "name": "line-17",
+        "type": "VECTOR",
+        "size": {
+          "w": 363,
+          "h": 17
+        },
+        "styles": {
+          "border": {
+            "width": 4,
+            "color": "rgb(176, 38, 38)"
+          },
+          "shadow": {
+            "x": 0,
+            "y": 4,
+            "blur": 4,
+            "color": "rgba(0, 0, 0, 0.25)"
+          }
+        }
+      },
+      {
+        "name": "ellipse-272",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-273",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-274",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-275",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-276",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-277",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-278",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-279",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-280",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-281",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-282",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-283",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-284",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-285",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "ellipse-286",
+        "type": "ELLIPSE",
+        "size": {
+          "w": 5,
+          "h": 5
+        },
+        "styles": {
+          "bg": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "name": "rectangle-335",
+        "type": "VECTOR",
+        "size": {
+          "w": 368,
+          "h": 23
+        },
+        "styles": {
+          "bg": "rgb(176, 38, 38)",
+          "radius": 5
+        }
+      }
+    ]
+  },
+  "summary": {
+    "components": 0,
+    "instances": 0,
+    "frames": 1,
+    "texts": 110,
+    "hasAutoLayout": true,
+    "hasEffects": true
+  }
+}

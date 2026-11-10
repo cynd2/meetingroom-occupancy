@@ -1,0 +1,36 @@
+.filterbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 80px;
+  border-bottom: 1px solid #000;
+}
+
+.filterbar__buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.filterbar__btn {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 7px 24px;
+  border-radius: 30px;
+  border: 1px solid #000;
+  background: #D9D9D9;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.filterbar__btn--active {
+  background: #000;
+  color: #D9D9D9;
+  border-color: #000;
+}
+
+.filterbar__clock {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  font-weight: 400;
+}
